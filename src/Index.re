@@ -1,4 +1,1 @@
-ReactDOMRe.renderToElementWithId(
-  <Component1 message="Hello world." />,
-  "index1",
-);
+ReactDOMRe.renderToElementWithId(<App message="Hello world." />, "index1");
